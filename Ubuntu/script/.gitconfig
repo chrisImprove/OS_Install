@@ -1,0 +1,12 @@
+[user]
+	name = chris
+	email = chris.improve@outlook.com
+[alias]
+	st = status
+	logno = log --no-merges
+    logp = log --pretty=format:\"%h %an %cn %cd %cr %s\" --graph
+    cm = commit -m
+    ls = log --stat
+    lp = log -p
+    pushm = push origin master:master
+    pullm = pull origin master:master
