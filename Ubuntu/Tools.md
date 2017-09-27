@@ -1,5 +1,4 @@
 # 常用工具安装
-<small>
 ### 一、Markdown
 ```
 1. sudo npm -g install instant-markdown-d
